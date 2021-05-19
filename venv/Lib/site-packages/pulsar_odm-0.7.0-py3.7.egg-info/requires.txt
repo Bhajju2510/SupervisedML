@@ -1,0 +1,4 @@
+greenlet
+sqlalchemy
+psycopg2
+pulsar

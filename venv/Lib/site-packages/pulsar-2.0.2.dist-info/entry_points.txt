@@ -1,0 +1,6 @@
+[distutils.commands]
+bench = pulsar.cmds:Bench
+linux_wheels = pulsar.cmds:ManyLinux
+pulsar_test = pulsar.cmds:Test
+s3_upload = pulsar.cmds:S3Data
+
